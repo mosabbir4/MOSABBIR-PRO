@@ -23,4 +23,4 @@ PAID TOOLS
 - `rm -rf MOSABBIR-PRO`
 - `git clone --depth=1 https://github.com/mosabbir4/MOSABBIR-PRO`
 - `cd MOSABBIR-PRO`
-- `python mosabbir.py`
+- `python mosabbir.txt`
