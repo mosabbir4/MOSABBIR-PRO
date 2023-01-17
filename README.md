@@ -21,6 +21,6 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf MOSABBIR-PRO`
-- `git clone --depth=1 https://github.com/mosabbir4/mosabbir-pro-.git`
+- `git clone --depth=1 https://github.com/mosabbir4/MOSABBIR-PRO`
 - `cd MOSABBIR-PRO`
-- `python MOSABBIR.py`
+- `python mosabbir.py`
